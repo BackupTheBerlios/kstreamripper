@@ -1,0 +1,29 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="3" >
+  <Doc0 NumberOfViews="1" URL="file:/home/tuxipuxi/Documents/cpp/kstreamripper/src/main.cpp" >
+   <View0 line="30" Type="???" >
+    <AdditionalSettings/>
+   </View0>
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:/home/tuxipuxi/Documents/cpp/kstreamripper/src/kstreamripper.h" >
+   <View0 line="56" Type="???" >
+    <AdditionalSettings/>
+   </View0>
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:/home/tuxipuxi/Documents/cpp/kstreamripper/src/kstreamripper.cpp" >
+   <View0 line="138" Type="???" >
+    <AdditionalSettings/>
+   </View0>
+  </Doc2>
+ </DocsAndViews>
+ <pluginList>
+  <kdevbookmarks>
+   <bookmarks/>
+  </kdevbookmarks>
+  <kdevdebugger>
+   <breakpointList/>
+  </kdevdebugger>
+ </pluginList>
+</KDevPrjSession>
